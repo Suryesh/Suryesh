@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Suryesh
-- 👀 I’m interested in Web devloping, Ethical Hacking
+- 👀 I’m interested in Cyber Security, Ethical Hacking
 - 🌱 I’m currently learning CSE 2nd year student
 - 💞️ I’m looking to collaborate on Ethical hacking
 - 📫 How to reach me 
