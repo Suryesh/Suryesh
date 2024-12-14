@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-👨‍💻 Security Researcher | Penetration Tester | Developer
+
+👨‍💻 Security Researcher | Penetration Tester
 🔍 Exploring the depths of web security, vulnerability testing, and automation.
 🛠️ Skilled in creating tools for XSS, LFI, CORS, and other security vulnerabilities.
 📜 Crafting custom scripts to find sensitive information, perform directory brute-forcing, and Google Dorking.
