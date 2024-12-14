@@ -1,5 +1,5 @@
 # 💫 About Me:
- Security Researcher | Penetration Tester<br>🔍 Exploring the depths of web security, vulnerability testing, and automation.<br>🛠️ Skilled in creating tools for Automation Testing.<br>📜 Crafting custom scripts to find sensitive information, perform directory brute-forcing, and Google Dorking.<br>🎥 Sharing knowledge and practical demonstrations on my YouTube channel (focused on security research).
+ **👨‍💻 Security Researcher | Penetration Tester**<br>🔍 Exploring the depths of web security, vulnerability testing, and automation.<br>🛠️ Skilled in creating tools for Automation Testing.<br>📜 Crafting custom scripts to find sensitive information, perform directory brute-forcing, and Google Dorking.<br>🎥 Sharing knowledge and practical demonstrations on my YouTube channel (focused on security research).
 
 
 ## 🌐 Socials:
