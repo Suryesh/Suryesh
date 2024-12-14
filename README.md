@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**Suryesh/Suryesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Security Researcher | Penetration Tester | Developer
+🔍 Exploring the depths of web security, vulnerability testing, and automation.
+🛠️ Skilled in creating tools for XSS, LFI, CORS, and other security vulnerabilities.
+📜 Crafting custom scripts to find sensitive information, perform directory brute-forcing, and Google Dorking.
+🎥 Sharing knowledge and practical demonstrations on my YouTube channel (focused on security research).
 
-Here are some ideas to get you started:
+💡 Always learning | 🚀 Always experimenting | 🔐 Always secure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Let's connect:
+
+LinkedIn
+Twitter
+Email
